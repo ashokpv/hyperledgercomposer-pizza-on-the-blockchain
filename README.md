@@ -352,6 +352,7 @@ Select Transfer Ownership again.
 Select Transfer Ownership one more time.
 
 From here, the Customer can keep track of their pizza through the entire process.
+https://github.com/arshpreetsingh/pizza-on-the-blockchain/blob/master/images/customer.png
 
 And that's it! See how simple it is? If you're interested in learning more about Blockchain, check out some useful links:
 
